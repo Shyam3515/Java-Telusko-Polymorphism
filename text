@@ -1,0 +1,7 @@
+Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance. 
+Like we specified in the previous chapter; Inheritance lets us inherit attributes and methods from another class. 
+Polymorphism uses those methods to perform different tasks.
+
+In Object-Oriented Programming (OOPS) language, there are two types of polymorphism as below:
+Static Binding (or Compile time) Polymorphism, e.g., Method Overloading.
+Dynamic Binding (or Runtime) Polymorphism, e.g., Method overriding.
